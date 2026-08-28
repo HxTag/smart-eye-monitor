@@ -1,0 +1,15 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Local logs and editor history
+logs/*.log
+.history/
+
+# Windows / editor files
+Thumbs.db
+.DS_Store
+.vscode/
