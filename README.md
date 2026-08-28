@@ -161,4 +161,4 @@ The filenames must match the paths configured in `config.py`. If you cloned the 
 
 ## License
 
-No license has been selected yet. Add a license file before distributing or reusing this project publicly.
+This project is licensed under the [MIT License](LICENSE).
